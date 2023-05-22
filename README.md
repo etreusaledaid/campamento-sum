@@ -6,8 +6,9 @@ Difusión del evento para obtener interesados en el llamado campamento tiburon e
 
 <p align="center">
 	<img src="img/imagen-1.png" width="200"/>
+</p>
+<p align="center">
 	<img src="img/imagen-2.png" width="200"/>
-	<img src="img/imagen-3.png" width="200"/>
 </p>
 
 ![Badge HTML](https://img.shields.io/badge/HTML%20-red)
